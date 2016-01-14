@@ -1,1 +1,1 @@
-# PyStackyMath
+# Stacky
